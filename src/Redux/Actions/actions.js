@@ -1,0 +1,5 @@
+export const List_Add = "List_Add"
+export const List_Insert = "List_Insert"
+export const List_Update = "List_Update"
+export const List_Delete = "List_Delete"
+export const List_Display = "List_Display"
